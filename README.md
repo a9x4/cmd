@@ -12,9 +12,7 @@
       <img src="https://img.shields.io/github/last-commit/lxte/cmd?label=Last%20Modifed" alt="Last Modified" />
   </a>
 </p>
-</div>
-> [!WARNING]  
-> This Repository Forked 
+</div> 
 
 # ⚙️ Features
 - ⭐ 200+ Commands
