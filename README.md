@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Cmd 📜</h1>
+<h1>Cmd 📜 [ Modded ]</h1>
 <img width="800" src="assets/images/showcase-rounded.png" />
 <p>
   <a href="https://github.com/lxte/cmd/stargazers">
@@ -13,6 +13,8 @@
   </a>
 </p>
 </div>
+> [!WARNING]  
+> This Repository Forked 
 
 # ⚙️ Features
 - ⭐ 200+ Commands
