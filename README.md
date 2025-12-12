@@ -28,7 +28,7 @@
 
 ## Main - Rewrite (Recommended) ⭐
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lxte/cmd/main/main.lua"))()
+loadstring(httpget(game,"https://raw.githubusercontent.com/a9x4/cmd/main/main.lua"))()
 ```
 
 ## Testing - Old Version (Not recommended) ⚠️
